@@ -1,6 +1,6 @@
 # Next Generation Team website
 
-Bilingual (EN/DE) site for the Hillsong Berlin Next Generation Team: age groups, weekly Sunday lessons, calendar and a team area for editing.
+Bilingual (EN/DE) site for the Hillsong Berlin Next Generation Team: age groups, weekly Sunday lessons and a team area for editing.
 
 Stack: TanStack Start, React, Tailwind, Supabase (Postgres, auth, storage).
 
